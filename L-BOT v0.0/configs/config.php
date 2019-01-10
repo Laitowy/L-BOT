@@ -15,7 +15,7 @@ $config['database'] = [
 
   'login' => 'serveradmin',
 
-  'passwd' => 'admin1234',
+  'passwd' => 'apasswd',
 
   'enabled' => false,
 ];
@@ -34,7 +34,7 @@ $config[1] = [
 
     'login' => 'serveradmin',
 
-    'passwd' => 'Cepolekj1',
+    'passwd' => 'paswd',
 
     'channelId' => 5,
 
